@@ -17,7 +17,6 @@ tags
 *.obj
 *.exe
 makefile
-*.*
-!.gitignore
-!trie.hpp
-!trie_old.hpp
+
+# Build artifacts are put here by bjam
+bin.v2/
